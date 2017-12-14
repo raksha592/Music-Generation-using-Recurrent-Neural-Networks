@@ -1,0 +1,3 @@
+1MIDI-50SeqLength-50Epochs: It gives one note and noise in between
+2MIDIFILE-25Epochs--2Notes: it plays 1 note repeatedly and then changes to another and repeat that one
+1MIDI-100SeqLength-50Epochs : Plays 1 note over and over
